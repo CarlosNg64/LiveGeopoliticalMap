@@ -12,7 +12,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 api_id = '21950531'
 api_hash = '77ddc817506d749b2e4611e644984eaa'
 phone_number = '+17874663738'
-chat_id = 'nandation'  # This can be the username or ID of the chat
+chat_id = 'https://t.me/BellumActaNews'  # This can be the username or ID of the chat
 
 # Specify the directories for saving text and media files
 text_file_path = r'c:\Users\oneto\Documents\GitHub\LiveGeopoliticalMap\telegram_chat.txt'
